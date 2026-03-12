@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "removeDuplicatesII",
+            "request": "launch",
+            "mainClass": "removeDuplicatesII",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
             "name": "searchInsertPos",
             "request": "launch",
             "mainClass": "searchInsertPos",
