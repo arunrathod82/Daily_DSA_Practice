@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContainsDuplicateIII",
+            "request": "launch",
+            "mainClass": "ContainsDuplicateIII",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "ContainsDuplicateII",
+            "request": "launch",
+            "mainClass": "ContainsDuplicateII",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "ContainsDuplicate",
+            "request": "launch",
+            "mainClass": "ContainsDuplicate",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "SubarraySumEqualsK",
+            "request": "launch",
+            "mainClass": "SubarraySumEqualsK",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumberIII",
+            "request": "launch",
+            "mainClass": "SingleNumberIII",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "ProductExceptSelf",
+            "request": "launch",
+            "mainClass": "ProductExceptSelf",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfIslands",
+            "request": "launch",
+            "mainClass": "NumberOfIslands",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "SortColor",
+            "request": "launch",
+            "mainClass": "SortColor",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "SortColors",
+            "request": "launch",
+            "mainClass": "SortColors",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumberII",
+            "request": "launch",
+            "mainClass": "SingleNumberII",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumber",
+            "request": "launch",
+            "mainClass": "SingleNumber",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "FourSum",
+            "request": "launch",
+            "mainClass": "FourSum",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "threeSumClosest",
+            "request": "launch",
+            "mainClass": "threeSumClosest",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSum",
+            "request": "launch",
+            "mainClass": "ThreeSum",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "MaxProfitII",
+            "request": "launch",
+            "mainClass": "MaxProfitII",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "maxProfit",
+            "request": "launch",
+            "mainClass": "maxProfit",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
+            "name": "mergeArray",
+            "request": "launch",
+            "mainClass": "mergeArray",
+            "projectName": "Daily_DSA_Practice_e5b2e734"
+        },
+        {
+            "type": "java",
             "name": "removeDuplicatesII",
             "request": "launch",
             "mainClass": "removeDuplicatesII",
