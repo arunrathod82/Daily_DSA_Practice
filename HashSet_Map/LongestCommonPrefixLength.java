@@ -8,6 +8,8 @@ Space Complexity: O(n*d)
 where d = number of digits
 */
 
+package HashSet_Map;
+
 import java.util.*;
 
 public class LongestCommonPrefixLength {
